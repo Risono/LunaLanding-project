@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Risono/LunaLanding-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://github.com/Risono/LunaLanding-project/blob/main/image/iCon256.png?raw=true" alt="LunaLandingのアイコン" title="アイコン" width=70>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Welcome to LunaLanding
+[ このゲームについて ]  
+月面着陸ゲームです。
+It's Landing Game on Moon surface.
+Please Enjoy!
 
-### Markdown
+[ 作者について ]  
+定年退職後にUnityを使って基本一人でスマホのゲームを作ってます。「Meteor」、「PuzzlePand」に続く第三弾です。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Privacy Policy
+#### プライバシーポリシー
 
-```markdown
-Syntax highlighted code block
+[ 利用者情報の取得および利用 ]
+本アプリが利用者の個人情報を取得および利用することはありません。 
 
-# Header 1
-## Header 2
-### Header 3
+[ 利用者情報の第三者提供 ] 
+本アプリが利用者の個人情報を第三者へ提供することはありません。 
 
-- Bulleted
-- List
+[ 広告配信ツール ] 
+本アプリは、Unity Technologies社の広告配信ツールを使用しており、Unity Technologies社が利用者の情報を自動取得する場合があります。 取得する情報、利用目的、第三者への提供等につきましては、広告配信事業者の<a href= "https://unity3d.com/legal/privacy-policy" >プライバシーポリシー</a>よりご確認ください。 
+## DownLoad
+### ダウンロード
+#### iPhoneはこちら
+<p style="text-indent:1.7em;"><a href=" #under construction# "><img src="https://github.com/Risono/risono.github.io/blob/main/image/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg?raw=true" alt="Download on the AppStore" width='126px' height='80px'></a></p>  
 
-1. Numbered
-2. List
+#### Androidはこちら
+<p style="text-indent:1em;"><a href=" #under construction# "><img alt='Get it on Google Play' src='https://play.google.com/intl/us-en/badges/static/images/badges/en_badge_web_generic.png' width='148px' height='70px'/></a></p> 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Link
+### リンク
+* <a href="https://twitter.com/daikuya_ri"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/Twitter%20social%20icons%20-%20square%20-%20blue.png?raw=true" alt="Twitter" width="20" height="20"> </a> (サポート)  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Shooter Game)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Risono/LunaLanding-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Shooter Game)
