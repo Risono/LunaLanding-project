@@ -1,6 +1,3 @@
-
-<img src="https://github.com/Risono/LunaLanding-project/blob/main/image/iCon256.png?raw=true" alt="LunaLandingのアイコン" title="アイコン" width=70>
-
 # Welcome to LunaLanding
 [ このゲームについて ]  
 月面着陸ゲームです。
