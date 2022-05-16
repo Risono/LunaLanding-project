@@ -33,4 +33,4 @@ Please Enjoy!
 
 * <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Shooter Game)
 
-* <a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Shooter Game)
+* <a href="https://risono.github.io/PuzzlePanda-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a> (Puzzle Game)
