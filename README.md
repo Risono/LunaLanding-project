@@ -1,11 +1,12 @@
 # Welcome to LunaLanding
 [ このゲームについて ]  
 月面着陸ゲームです。
+「Meteor」、「PuzzlePand」に続く第三弾です。
 It's Landing Game on Moon surface.
 Please Enjoy!
 
 [ 作者について ]  
-定年退職後にUnityを使って基本一人でスマホのゲームを作ってます。「Meteor」、「PuzzlePand」に続く第三弾です。
+定年退職後にUnityを使って基本一人でスマホのゲームを作ってます。
 
 # Privacy Policy
 #### プライバシーポリシー
