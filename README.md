@@ -1,12 +1,19 @@
 # Welcome to LunaLanding
 [ このゲームについて ]  
 月面着陸ゲームです。
-「Meteor」、「PuzzlePand」に続く第三弾です。
-It's Landing Game on Moon surface.
+Meteor
+<a href="https://risono.github.io/Meteor-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/meteoricon84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a>,
+PuzzlePand
+<a href="https://risono.github.io/PuzzlePanda-project"><img src="https://github.com/Risono/PuzzlePanda-project/blob/main/image/PuzzlePanda84x84.png?raw=true" alt="Meteor" width="20" height="20"> </a>に続く三作目です。
+
+The Landing Game on Moon surface.
+This is the third work following Meteor and PuzzlePand.
 Please Enjoy!
 
 [ 作者について ]  
-定年退職後にUnityを使って基本一人でスマホのゲームを作ってます。
+定年退職後に独学でUnityを勉強しながらスマホのゲームを作ってます。
+
+After retirement, I am making smartphone games while studying Unity on my own.
 
 # Privacy Policy
 #### プライバシーポリシー
